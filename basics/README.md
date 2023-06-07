@@ -11,3 +11,4 @@
 10-Added script that changes the working directory to the previous one
 11-Added script that lists all files (including hidden ones), in the current directory, in the previous one, and in /boot, all in long format
 12-Added script that prints the type of a certain file
+13-Added script that creates a symbolic link pointing at /bin/ls
