@@ -2,3 +2,4 @@
 -Added script that lists the current directory's content
 -Added script that takes you to your home directory
 -Added script that lists the current directory's content, in long format
+-Added script that lists the current directory's content, even hidden elements, in long format
