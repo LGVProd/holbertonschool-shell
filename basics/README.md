@@ -4,3 +4,4 @@
 -Added script that lists the current directory's content, in long format
 -Added script that lists the current directory's content, even hidden elements, in long format
 -Added script that lists the current directory's content in long format, with numeric user and group IDs, and with hidden items
+-Added script that creates a directory in /tmp
