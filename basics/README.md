@@ -12,3 +12,4 @@
 11-Added script that lists all files (including hidden ones), in the current directory, in the previous one, and in /boot, all in long format
 12-Added script that prints the type of a certain file
 13-Added script that creates a symbolic link pointing at /bin/ls
+14-Added script that copies files while following several different conditions
