@@ -1,3 +1,4 @@
 -Added script that tells you which directory you are working in
 -Added script that lists the current directory's content
 -Added script that takes you to your home directory
+-Added script that lists the current directory's content, in long format
