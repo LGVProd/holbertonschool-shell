@@ -6,3 +6,4 @@
 6-Added script that lists the current directory's content in long format, with numeric user and group IDs, and with hidden items
 7-Added script that creates a directory in /tmp
 8-Added script that moves file from /tmp to the new directory from step 7
+9-Added script that removes a file from a directory in /tmp
