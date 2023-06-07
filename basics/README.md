@@ -13,3 +13,4 @@
 12-Added script that prints the type of a certain file
 13-Added script that creates a symbolic link pointing at /bin/ls
 14-Added script that copies files while following several different conditions
+15-Added script that moves certain files to a directory within /tmp
