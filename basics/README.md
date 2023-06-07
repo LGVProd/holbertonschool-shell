@@ -8,3 +8,4 @@
 7-Added script that moves a file from /tmp to the new directory from step 6
 8-Added script that removes the file from step 7
 9-Added script that removes the directory created in step 6
+10-Added script that changes the working directory to the previous one
