@@ -1,1 +1,2 @@
-For now, we have a script that tells you which directory you are working in
+-Added script that tells you which directory you are working in
+-Added script that lists the current directory's content
