@@ -13,3 +13,5 @@
 12-Added script that creates a directory with certain permissions, all in a single step
 13-Added script that changes the group owner for the file from step 4
 14-Added script that changes the owner and the group owner for everything in the working directory
+15-Added script that changes the owner and the group owner of a specific symbolic link
+
