@@ -10,4 +10,5 @@
 9-Added script that sets the file in step 4 to a certain mode
 10-Added script that sets the mode of the file in step 4 to be the same as the mode of another file
 11-Added script that adds execute permission to all subdirectories of the current directory, for all users, without affecting files
+12-Added script that creates a directory with certain permissions, all in a single step
 
