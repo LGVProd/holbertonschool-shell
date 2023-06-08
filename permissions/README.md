@@ -12,3 +12,4 @@
 11-Added script that adds execute permission to all subdirectories of the current directory, for all users, without affecting files
 12-Added script that creates a directory with certain permissions, all in a single step
 13-Added script that changes the group owner for the file from step 4
+14-Added script that changes the owner and the group owner for everything in the working directory
