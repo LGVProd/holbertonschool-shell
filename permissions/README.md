@@ -6,3 +6,4 @@
 5-Added script that adds execute permission to the owner of the file in step 4
 6-Added script that adds execute permission to some users, and read permission to others
 7-Added script that adds execute permission to the owner, the group owner, and others
+8-Added script that gives all permissions, but only to other users
