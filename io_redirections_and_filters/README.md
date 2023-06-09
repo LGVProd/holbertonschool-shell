@@ -6,4 +6,5 @@
 5-Added script that displays the first 10 lines of the 'passwd' file
 6-Added script that displays the third line of a specific file
 7-Added script that creates a file with a very creative name
+8-Added script that writes the result of a command into a file, overriding said file if it already exists
 
