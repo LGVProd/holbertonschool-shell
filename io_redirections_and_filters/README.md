@@ -5,4 +5,5 @@
 4-Added script that displays the last 10 lines of the 'passwd' file
 5-Added script that displays the first 10 lines of the 'passwd' file
 6-Added script that displays the third line of a specific file
+7-Added script that creates a file with a very creative name
 
