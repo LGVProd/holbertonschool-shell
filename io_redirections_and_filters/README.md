@@ -12,4 +12,5 @@
 11-Added script that counts directories and subdirectories in the current directory
 12-Added script that displays the 10 newest files in the current directory
 13-Added script that prints items that appear only once, after being sorted
+14-Added script that display lines containing a certain pattern, from a specific file
 
