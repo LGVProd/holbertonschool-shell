@@ -10,4 +10,5 @@
 9-Added script that duplicates the last line of a certain file
 10-Added script that deletes all files with a .js extension on the current directory and all of its subdirectories
 11-Added script that counts directories and subdirectories in the current directory
+12-Added script that displays the 10 newest files in the current directory
 
