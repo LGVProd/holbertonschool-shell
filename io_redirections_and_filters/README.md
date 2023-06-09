@@ -8,4 +8,5 @@
 7-Added script that creates a file with a very creative name
 8-Added script that writes the result of a command into a file, overriding said file if it already exists
 9-Added script that duplicates the last line of a certain file
+10-Added script that deletes all files with a .js extension on the current directory and all of its subdirectories
 
