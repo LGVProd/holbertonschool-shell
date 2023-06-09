@@ -15,4 +15,5 @@
 14-Added script that displays lines containing a certain pattern, from a specific file
 15-Added script that displays the number of lines containing a certain pattern
 16-Added script that displays lines containing a certain pattern, as well as the 3 lines after them
+17-Added script that displays lines NOT containing a certain pattern, from a specific file
 
