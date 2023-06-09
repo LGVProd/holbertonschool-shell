@@ -3,4 +3,5 @@
 2-Added script that displays the content of the 'passwd' file
 3-Added script that displays the contents of both the 'passwd' and the 'hosts' file
 4-Added script that displays the last 10 lines of the 'passwd' file
+5-Added script that displays the first 10 lines of the 'passwd' file
 
