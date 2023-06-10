@@ -1,4 +1,4 @@
-<ol>
+<ol start="0">
 <li>Added script that prints a line to the screen</li>
 <li>Added script that displays a "confused smiley"</li>
 <li>Added script that displays the content of the 'passwd' file</li>
