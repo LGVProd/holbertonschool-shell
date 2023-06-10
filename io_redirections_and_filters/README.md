@@ -18,4 +18,5 @@
 <li>Added script that displays lines containing a certain pattern, as well as the 3 lines after them</li>
 <li>Added script that displays lines NOT containing a certain pattern, from a specific file</li>
 <li>Added script that only displays lines starting with a letter, for a certain file</li>
+<li>Added script that replaces two characters with other, different characters</li>
 </ol>
