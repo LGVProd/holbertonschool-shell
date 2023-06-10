@@ -19,4 +19,6 @@
 <li>Added script that displays lines NOT containing a certain pattern, from a specific file</li>
 <li>Added script that only displays lines starting with a letter, for a certain file</li>
 <li>Added script that replaces two characters with other, different characters</li>
+<li>Added script that deletes two specific characters from standard input</li>
+
 </ol>
