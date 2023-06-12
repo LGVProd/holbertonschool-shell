@@ -7,5 +7,6 @@
 <li>Added script that lists all local and environmental variables, as well as all shell functions</li>
 <li>Added script that creates a new local variable</li>
 <li>Added script that creates a new environment (global) variable</li>
+<li>Added script that prints an addition done with a global variable</li>
 
 </ol>
