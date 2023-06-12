@@ -4,5 +4,6 @@
 <li>Added script that adds a directory to the PATH</li>
 <li>Added script that counts the number of directories in the PATH</li>
 <li>Added script that lists the environmental variables</li>
+<li>Added script that lists all local and environmental variables, as well as all shell functions</li>
 
 </ol>
