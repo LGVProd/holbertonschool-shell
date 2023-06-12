@@ -11,5 +11,6 @@
 <li>Added script that prints a division involving two global variables</li>
 <li>Added script that displays the result of a global variable to the power of another</li>
 <li>Added script that converts a number from base 2 to base 10</li>
+<li>Added script that prints all possible combinations of two letters, except one</li>
 
 </ol>
